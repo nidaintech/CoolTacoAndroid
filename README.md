@@ -36,8 +36,8 @@ The system leverages the **Android Health Connect API** and **WorkManager** to t
 
 ## 🤝 Research Commitment & Dedication
 This prototype was engineered entirely from scratch as an independent technical initiative to support ongoing research in HCI and accessible technology for ADHD:
-* **Development Investment:** Dedicated **[Insert Hours, e.g., 60+] hours** of independent, intensive engineering.
-* **Future Availability:** Prepared to commit **[Insert Hours, e.g., 15-20 hours/week]** as a Research Assistant to drive clinical trials, data integration, and upcoming lab publications.
+* **Development Investment:** Dedicated ** 60+ hours** of independent, intensive engineering.
+* **Future Availability:** Prepared to commit 15-20 hours/week as a Research Assistant to drive clinical trials, data integration, and upcoming lab publications.
 
 ## 🚀 Future Roadmap
 - [ ] **Web-Based Family Dashboard:** Developing a scalable Laravel/PHP dashboard for large-screen "Joint Reflection" and long-term behavioral tracking.

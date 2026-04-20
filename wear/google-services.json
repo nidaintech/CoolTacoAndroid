@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696198960328",
+    "project_id": "cooltaco-riset",
+    "storage_bucket": "cooltaco-riset.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696198960328:android:93357a360a490b643f01fd",
+        "android_client_info": {
+          "package_name": "com.example.cooltacoandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApxlXYvQWYqc4BEp9HTKxWuZBpo7vFa3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
